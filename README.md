@@ -48,8 +48,8 @@ You can install the necessary libraries using `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
+## Credits
 
-Credits
-
-Dataset Source: UCI Machine Learning Repository: Productivity Prediction of Garment Employees
+* **Dataset Source:** [UCI Machine Learning Repository: Productivity Prediction of Garment Employees](https://archive.ics.uci.edu/dataset/597/productivity+prediction+of+garment+employees)
